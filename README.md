@@ -1,4 +1,4 @@
-# Analysis-of-Fight-Data-and-Predicting-Prices-With-Machine-Learning
+# Analysis of Fight Data and Predicting Prices With Machine Learning
 This repository explores flight data to uncover factors influencing airfare and build predictive models to estimate ticket prices. By leveraging various machine learning regression algorithms, we aim to provide insights and accurate predictions for ticket prices. The project focuses on analyzing flight data, performing Exploratory Data Analysis (EDA), and predicting ticket prices by testing multiple regression models. The dataset used for this project is sourced from Kaggle.
 
 ## Table of Contents
